@@ -11,3 +11,5 @@ Last updated: December 27, 2025
 4. Contact If you have any questions regarding this Privacy Policy, you can contact me at: wds3817@gmail.com
 
 5. Payments and Billing NihongWatch uses Apple’s In-App Purchase service to process payments. We do not have access to your credit card information or billing address. All financial transactions are handled securely by Apple.
+
+6. Terms of Use (EULA) By using NihongWatch, you agree to the Apple Standard Toolkit End User License Agreement (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
