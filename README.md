@@ -9,3 +9,5 @@ Last updated: December 27, 2025
 3. Permissions The app may use the system’s Text-to-Speech (TTS) engine to provide audio pronunciation, but no audio data is recorded or transmitted.
 
 4. Contact If you have any questions regarding this Privacy Policy, you can contact me at: wds3817@gmail.com
+
+5. Payments and Billing NihongWatch uses Apple’s In-App Purchase service to process payments. We do not have access to your credit card information or billing address. All financial transactions are handled securely by Apple.
