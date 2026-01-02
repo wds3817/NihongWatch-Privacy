@@ -1,41 +1,29 @@
-# MomsWhisper Support
+# Privacy Policy for MomsWhisper
 
-Welcome to the MomsWhisper Support page. MomsWhisper is designed to be your companion on the Apple Watch, providing gentle, motherly reminders about upcoming weather changes so you're always prepared.
+Last Updated: January 3, 2026
 
----
+MomsWhisper ("we," "our," or "the App") is committed to protecting your privacy. This policy explains how we handle your data.
 
-## 🙋‍♂️ Frequently Asked Questions
+## 1. Information We Collect
+MomsWhisper only collects and uses the following information:
+- **Location Data:** To provide accurate local weather forecasts and temperature drop warnings, the App requires access to your Apple Watch's location.
 
-### How do I get weather alerts?
-MomsWhisper automatically monitors weather trends in the background. If a significant temperature drop is detected for tomorrow, you will receive a "whisper" notification on your wrist. Ensure that **Notifications** are enabled for the app in your Apple Watch settings.
+## 2. How We Use Your Information
+- **Weather Services:** Your location is sent to Apple WeatherKit to fetch the weather for your specific area.
+- **Local Notifications:** Weather analysis is performed locally on your device to trigger reminders.
+- **No Personal Identification:** We do not collect names, email addresses, or any device identifiers that can be linked to your identity.
 
-### Why is my location not updating?
-MomsWhisper uses your watch's location services to provide the most accurate local data. Please ensure that Location Services are set to **"While Using the App"** or **"Always"** in your privacy settings.
+## 3. Data Sharing and Third Parties
+- **Apple WeatherKit:** Location data is shared with Apple to provide weather services. Please refer to Apple’s Privacy Policy for more details.
+- **No Third-Party Tracking:** We do not share your location or any other data with advertisers, data brokers, or any other third parties.
 
-### How do I change temperature units?
-MomsWhisper follows your system settings. To switch between Celsius and Fahrenheit, change your preference in the **Apple Watch Settings > General > Language & Region**.
+## 4. Data Retention
+We do not store your location history or any personal data on any servers. Your location is processed in real-time and discarded after the weather fetch is complete.
 
----
+## 5. Your Choices
+You can revoke location permissions at any time via your Apple Watch:
+**Settings > Privacy & Security > Location Services > MomsWhisper**
 
-## 📩 Contact Support
-If you have any questions, bug reports, or suggestions to make MomsWhisper even better, please don't hesitate to reach out.
-
-**Email:** [Your Email Address Here]  
-**Developer:** [Your Name/Company Name]  
-
-*We aim to respond to all inquiries within 48 hours.*
-
----
-
-## 🛡️ Privacy Policy
-Your privacy is our priority. 
-- **Location Data:** We only use your location to fetch current weather data from Apple WeatherKit. This data is never stored on our servers or shared with third parties.
-- **Personal Info:** MomsWhisper does not collect names, email addresses, or any other personally identifiable information.
-- **Analytics:** We do not track your app usage for advertising purposes.
-
----
-
-## 📦 App Information
-- **Compatibility:** Requires watchOS 9.0 or later.
-- **Version:** 1.0
-- **Developer:** [Your Name]
+## 6. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
+wds3817@gmail.com
